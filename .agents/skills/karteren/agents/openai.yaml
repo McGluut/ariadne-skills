@@ -1,0 +1,6 @@
+interface:
+  display_name: Karteren
+  short_description: Brongefundeerde zoomkaarten
+  default_prompt: "Karteer de aangeleverde bron, scheid feiten van interpretatie, en maak alle zoomniveaus herleidbaar."
+policy:
+  allow_implicit_invocation: true
